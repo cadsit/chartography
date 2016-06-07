@@ -1,0 +1,19 @@
+{
+  "name": "chartography",
+  "version": "1.0.0",
+  "description": "Workbook for charts!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadsit/chartography.git"
+  },
+  "author": "Connor Adsit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadsit/chartography/issues"
+  },
+  "homepage": "https://github.com/cadsit/chartography#readme"
+}
